@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Demo v0.1</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Sirochki App</label>
+    <navType>Standard</navType>
+    <tabs>Sirok__c</tabs>
+    <tabs>Store_Item__c</tabs>
+    <tabs>Review__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Sirki_app_UtilityBar</utilityBar>
+</CustomApplication>
