@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Store_Item_Count__c</fullName>
+    <description>Сумма всех предложений по одному конкретному сырку.</description>
+    <externalId>false</externalId>
+    <label>Store Item Count</label>
+    <summaryForeignKey>Store_Item__c.Sirok__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Package_Convenience_Score__c</fullName>
+    <description>Оценка качества упаковки.</description>
+    <externalId>false</externalId>
+    <label>Package Convenience Score</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>X5_Star_Rating</valueSetName>
+    </valueSet>
+</CustomField>
