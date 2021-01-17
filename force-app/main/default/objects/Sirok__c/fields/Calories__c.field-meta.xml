@@ -5,7 +5,7 @@
     <externalId>false</externalId>
     <label>Calories</label>
     <precision>5</precision>
-    <required>false</required>
+    <required>true</required>
     <scale>0</scale>
     <trackTrending>false</trackTrending>
     <type>Number</type>

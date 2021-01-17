@@ -38,21 +38,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Sirok__c.Calories__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Sirok__c.Ingredients__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Sirok__c.Producer__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Sirok__c.S_Narodom__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -69,16 +54,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Sirok__c.Type__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Sirok__c.Weight__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Store_Item__c.Price__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

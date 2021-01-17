@@ -4,8 +4,7 @@
     <description>Состав сырка.</description>
     <externalId>false</externalId>
     <label>Ingredients</label>
-    <length>32768</length>
+    <required>true</required>
     <trackTrending>false</trackTrending>
-    <type>LongTextArea</type>
-    <visibleLines>3</visibleLines>
+    <type>TextArea</type>
 </CustomField>
