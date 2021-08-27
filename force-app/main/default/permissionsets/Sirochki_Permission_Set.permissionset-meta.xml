@@ -91,4 +91,16 @@
         <object>Store_Item__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>Review__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>Sirok__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+    <tabSettings>
+        <tab>Store_Item__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>

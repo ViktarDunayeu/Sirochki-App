@@ -44,5 +44,19 @@
         <members>Sirochki_Permission_Set</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Review__c-Review Layout</members>
+        <members>Store_Item__c-Store Item Layout</members>
+        <members>Sirok__c-Sirok Layout</members>
+        <name>Layout</name>
+    </types>
     <version>50.0</version>
 </Package>
